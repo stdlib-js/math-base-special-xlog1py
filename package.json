@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-special-xlog1py",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Compute `x * ln(y+1)` so that the result is `0` if `x = 0`.",
   "license": "Apache-2.0",
   "author": {
