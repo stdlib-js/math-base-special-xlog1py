@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import xlog1py from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-xlog1py@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-special-xlog1py/tags). For example,
+
+```javascript
 import xlog1py from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-xlog1py@v0.1.0-esm/index.mjs';
 ```
 
@@ -92,7 +97,7 @@ out = xlog1py( NaN, 2.3 );
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import xlog1py from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-xlog1py@v0.1.0-esm/index.mjs';
+import xlog1py from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-xlog1py@esm/index.mjs';
 
 var x;
 var y;
