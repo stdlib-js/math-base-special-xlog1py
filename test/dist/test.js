@@ -29,10 +29,10 @@ var xlog1py = require( './../../dist' );
 
 // FIXTURES //
 
-var smallSmall = require( './../..xtures/python/small_small.json' );
-var smallLarge = require( './../..xtures/python/small_large.json' );
-var largeSmall = require( './../..xtures/python/large_small.json' );
-var largeLarge = require( './../..xtures/python/large_large.json' );
+var smallSmall = require( './../fixtures/python/small_small.json' );
+var smallLarge = require( './../fixtures/python/small_large.json' );
+var largeSmall = require( './../fixtures/python/large_small.json' );
+var largeLarge = require( './../fixtures/python/large_large.json' );
 
 
 // TESTS //
