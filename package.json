@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-special-xlog1py",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Compute `x * ln(y+1)` so that the result is `0` if `x = 0`.",
   "license": "Apache-2.0",
   "author": {
@@ -37,8 +37,8 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/math-base-assert-is-nan": "^0.1.1",
-    "@stdlib/math-base-special-log1p": "^0.1.1"
+    "@stdlib/math-base-assert-is-nan": "^0.2.0",
+    "@stdlib/math-base-special-log1p": "^0.2.0"
   },
   "devDependencies": {
     "@stdlib/constants-float64-eps": "^0.1.1",
